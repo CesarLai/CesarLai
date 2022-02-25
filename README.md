@@ -16,6 +16,7 @@
 </p>
 
 ![Cesar Lai's github profile views count](https://komarev.com/ghpvc/?username=CesarLai&color=blue&style=flat)
+![Cesar Lai's github stars count](https://img.shields.io/github/stars/CesarLai?color=blue&style=flat&label=Stars)
 
 <p align="center">
   <img
