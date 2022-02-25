@@ -1,16 +1,34 @@
-### Hi there 👋
+<p style="text-align: center; padding: 32px 0 0;">
+  <img
+    width="200px"
+    src="https://cdn.cesarlai.com/images/logo_cesarlai_full.png"
+    alt="Cesar Lai's logo"
+  />
+  <p
+    style="
+      padding-top: 8px;
+      font-family:'Courier New', Courier, monospace;
+      font-size: 16px;
+      color: #3f3f3f;
+      text-align: center;
+      border-bottom: 1px solid #e0e0e0;
+      line-height: 46px;
+      letter-spacing: 1px;
+    "
+  >
+    Be a cool TypeScript developer.
+  </p>
+</p>
 
-<!--
-**CesarLai/CesarLai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="display: flex; justify-content: center; margin-top: 36px;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CesarLai&theme=react"
+    alt="Cesar Lai's GitHub stats"
+    height="200px"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarLai&layout=compact&theme=react&langs_count=10"
+    alt="Most Used Langs"
+    height="200px"
+  />
+</p>
