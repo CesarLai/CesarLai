@@ -20,12 +20,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=CesarLai&theme=react"
+    src="https://github-readme-stats.vercel.app/api?username=CesarLai&show=reviews&show_icons=true&theme=tokyonight"
     alt="Cesar Lai's GitHub stats"
     height="200px"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarLai&layout=compact&theme=react&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarLai&layout=compact&theme=tokyonight&langs_count=10"
     alt="Most Used Langs"
     height="200px"
   />
