@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cesarlai.com">
+  <a href="https://cesarlai.com" target="_blank">
     <img width="260px" src="./docs/images/logo_cesarlai_full.png" alt="Cesar Lai's logo" />
   </a>
 </p>
