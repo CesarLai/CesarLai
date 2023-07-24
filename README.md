@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="260px" src="./docs/images/logo_cesarlai_full.png" alt="Cesar Lai's logo" />
+  <a href="https://cesarlai.com">
+    <img width="260px" src="./docs/images/logo_cesarlai_full.png" alt="Cesar Lai's logo" />
+  </a>
 </p>
 <p>
   <h2 align="center">
